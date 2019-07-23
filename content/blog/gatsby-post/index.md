@@ -3,8 +3,6 @@ title: "Gatsby Release 2.0"
 date: "2019-07-22"
 ---
 
-# Gatsby Release 2.0
-
 We’re incredibly pleased to announce the 2nd major release of Gatsby!
 
 Gatsby is a blazing fast modern website and app generator. Thousands of developers use Gatsby to create amazing blogs, apps, marketing and ecommerce sites, documentation, and more!
