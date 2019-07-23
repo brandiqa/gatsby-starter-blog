@@ -3,7 +3,7 @@ title: "Gatsby Release 2.0"
 date: "2019-07-22"
 ---
 
-# Gatsby Release 2
+# Gatsby Release 2.0
 
 We’re incredibly pleased to announce the 2nd major release of Gatsby!
 
